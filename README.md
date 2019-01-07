@@ -1,0 +1,1 @@
+# 30-seconds-of-functional-python-programming
